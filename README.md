@@ -5,8 +5,8 @@ It includes real product data from FakeStore API, responsive UI, and shopping fe
 
 ---
 
-## 🚀 Live Demo
-🔗 https://your-netlify-site-url.netlify.app *(Add after deployment)*
+## 🚀 Live Demo  
+🔗 https://ecommerce-store-sooty-nine.vercel.app/
 
 ---
 
@@ -39,7 +39,6 @@ It includes real product data from FakeStore API, responsive UI, and shopping fe
 
 ## 📸 Screenshots
 
-(Add screenshots after deployment)  
 Example:  
 - Home Page  
 - Product Details  
