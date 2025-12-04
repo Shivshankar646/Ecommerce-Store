@@ -39,18 +39,35 @@ It includes real product data from FakeStore API, responsive UI, and shopping fe
 
 ## 📸 Screenshots
 
-Example:  
-- Home Page  
-- Product Details  
-- Cart Page  
-- Wishlist Page  
+### 🏠 Home Page  
+![Home](./src/assets/home.png)
+
+### 📦 All Products Page  
+![Products](./src/assets/products.png)
+
+### 🔍 Product Details Page  
+![Details](./src/assets/details.png)
+
+### ❤️ Wishlist Page  
+![Wishlist](./src/assets/wishlist.png)
+
+### 🛒 Cart Page  
+![Cart](./src/assets/cart.png)
 
 ---
 
-## 📂 Project Setup
+## 👨‍💻 Developer
 
-Clone the repository:
+**Shiv**  
+Frontend Developer | React Enthusiast 🚀  
+GitHub: https://github.com/Shivshankar646
 
-```bash
-git clone https://github.com/Shivshankar646/Ecommerce-Store.git
-cd Ecommerce-Store
+---
+
+## 📜 License
+
+This project is open source for learning purposes.
+
+---
+
+### ⭐ Don’t forget to star the repo if you like it!
